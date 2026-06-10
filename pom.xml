@@ -62,7 +62,7 @@
     <java.version>17</java.version>
     <java.release.version>17</java.release.version>
 
-      <sonar.host.url>http://YOUR-SONAR-IP:9000</sonar.host.url>
+      <sonar.host.url>http://65.0.124.56:9000/</sonar.host.url>
       <sonar.projectKey>jpetstore</sonar.projectKey>      
 
     <cargo-maven3-plugin.version>1.10.27</cargo-maven3-plugin.version>
