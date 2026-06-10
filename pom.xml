@@ -65,7 +65,7 @@
         <id>nexus-snapshots</id>
         <url>http://13.233.118.15:8081/repository/Snapshot/</url>
     </snapshotRepository>
-</distributionManagement>
+  </distributionManagement>
 
 
 
