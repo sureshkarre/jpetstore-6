@@ -55,16 +55,17 @@
       <name>Mybatis GitHub Pages</name>
       <url>scm:git:ssh://git@github.com/mybatis/jpetstore-6.git</url>
     </site>
-         
-    <repository>
-        <id>nexus-releases</id>
-        <url>http:</url>
-    </repository>
 
-    <snapshotRepository>
-        <id>nexus-snapshots</id>
+ <repository>
+      <id>nexus-releases</id>
+       <url>http://13.233.118.15:8081/repository/Release/</url>
+  </repository> 
+  <snapshotRepository>
+       <id>nexus-snapshots</id>
         <url>http://13.233.118.15:8081/repository/Snapshot/</url>
-    </snapshotRepository>
+   </snapshotRepository>
+
+         
   </distributionManagement>
 
 
