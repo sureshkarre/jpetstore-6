@@ -55,9 +55,7 @@
       <name>Mybatis GitHub Pages</name>
       <url>scm:git:ssh://git@github.com/mybatis/jpetstore-6.git</url>
     </site>
-
-
-<distributionManagement>
+         
     <repository>
         <id>nexus-releases</id>
         <url>http:</url>
