@@ -68,8 +68,8 @@
 
   <properties>
     <!-- Java Usage -->
-    <java.version>17</java.version>
-    <java.release.version>17</java.release.version>
+    <java.version>21</java.version>
+    <java.release.version>21</java.release.version>
 
       <sonar.host.url>http://3.110.207.82:9000/</sonar.host.url>
       <sonar.projectKey>jpetstore</sonar.projectKey>      
