@@ -72,6 +72,8 @@
     <java.release.version>17</java.release.version>
 
       <sonar.host.url>http://3.110.207.82:9000/</sonar.host.url>
+         <sonar.username>admin</sonar.username>
+          <sonar.password>ss1234</sonar.password>      
       <sonar.projectKey>jpetstore</sonar.projectKey>      
 
     <cargo-maven3-plugin.version>1.10.27</cargo-maven3-plugin.version>
