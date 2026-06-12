@@ -58,11 +58,11 @@
 
  <repository>
       <id>nexus-releases</id>
-       <url>http://13.233.118.15:8081/repository/Release/</url>
+       <url>http://52.66.156.40:8081/repository/app-Release/</url>
   </repository> 
   <snapshotRepository>
        <id>nexus-snapshots</id>
-        <url>http://13.233.118.15:8081/repository/Snapshot/</url>
+        <url>http://52.66.156.40:8081/repository/app-Snapshot/</url>
    </snapshotRepository>
  </distributionManagement>
 
